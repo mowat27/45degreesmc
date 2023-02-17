@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="flex w-max justify-between">
+  <div class="w-3/5">
+    <h1 class="text-lg">{{ page.location.hut}}, {{ page.location.area }}</h1>
+    <h2 class="">
+      {{ page.dates.from | date: "%e"}} - {{ page.dates.to | date: "%e"}}
+      {{ page.dates.from | date: "%b %Y"}}
+    </h2>
+  </div>
+  <div>
+    <img src="{{ page.images.cover }}" />
+  </div>
+</div>
+
+<section>
+  {{ content }}
+<section>
