@@ -2,19 +2,41 @@
 layout: default
 ---
 
-<div class="flex w-max justify-between">
-  <div class="w-3/5">
-    <h1 class="text-lg">{{ page.location.hut}}, {{ page.location.area }}</h1>
-    <h2 class="">
-      {{ page.dates.from | date: "%e"}} - {{ page.dates.to | date: "%e"}}
-      {{ page.dates.from | date: "%b %Y"}}
-    </h2>
+<div class="my-2">
+  <h1 class="text-2xl">{{ page.location.hut}}, {{ page.location.area }}</h1>
+  <h2 class="text-xl">
+    {{ page.dates.from | date: "%e"}} - {{ page.dates.to | date: "%e"}}
+    {{ page.dates.from | date: "%b %Y"}}
+  </h2>
+</div>
+
+<div class="md:flex mb-4 md:flex-row-reverse">
+  <div class="">
+    <img class="" src="{{ page.images.cover }}" />
   </div>
-  <div>
-    <img src="{{ page.images.cover }}" />
+
+  <div class="md:pr-6">
+    <p class="">{{ page.preamble }}</p>
+
+    <h3 class="text-lg">Members Attending</h3>
+    <ul>
+      {% for person in page.attendees.members %}
+        <li>{{person}}</li>
+      {% endfor %}
+    </ul>
+
+    {% unless page.attendees.guests.empty? %}
+      <h3 class="text-lg mt-4">Guests</h3>
+      <ul>
+        {% for person in page.attendees.guests %}
+          <li>{{person}}</li>
+        {% endfor %}
+      </ul>
+    {% endunless %}
   </div>
 </div>
 
-<section>
+
+<section class="">
   {{ content }}
 <section>

@@ -19,9 +19,9 @@ attendees:
     - Elizabeth Smith
 images:
   cover: /assets/images/blackrock/cover.jpeg
+preamble: |
+  The April Meet saw us return to the wonderfully situated Blackrock Cottage, one of the most photographed in Scotland. Many thanks to the Ladies Scottish Mountaineering Club for allowing us use of the Hut. For various reasons, numbers were short, but those attending certainly enjoyed their stay.
 ---
-
-The April Meet saw us return to the wonderfully situated Blackrock Cottage, one of the most photographed in Scotland. Many thanks to the Ladies Scottish Mountaineering Club for allowing us use of the Hut. For various reasons, numbers were short, but those attending certainly enjoyed their stay.
 
 On Friday, George & Susan dropped the keys off on their way through to an enjoyable walk on the splendid twin peaks of Beinn a’Bheithir. Conditions were almost perfect with the wind not as strong as on previous visits.
 
