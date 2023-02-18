@@ -8,3 +8,15 @@
 p {
   @apply mb-4
 }
+
+article.meet-report {
+  section.content {
+    .gallery > p {
+      @apply lg:flex gap-2 flex-wrap justify-between
+    }
+
+    img {
+      @apply py-4 m-auto max-w-full md:max-w-lg lg:max-w-2xl
+    }
+  }
+}

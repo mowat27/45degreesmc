@@ -25,4 +25,11 @@ preamble: |
 
 On Friday, George & Susan dropped the keys off on their way through to an enjoyable walk on the splendid twin peaks of Beinn a’Bheithir. Conditions were almost perfect with the wind not as strong as on previous visits.
 
+<div class='gallery' markdown="1">
+![02-1](/assets/images/blackrock/02-1.jpeg)
+![03-1](/assets/images/blackrock/03-1.jpeg)
+![04-1](/assets/images/blackrock/04-1.jpeg)
+</div>
+
 Meanwhile, Louise was on the Bridge of Orchy hills of Stob Ghabhar and Stob a’Choire Odhair, where she enjoyed fabulous views of Rannoch Moor.
+![05-1](/assets/images/blackrock/05-1.jpeg)
