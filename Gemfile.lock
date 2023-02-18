@@ -68,6 +68,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-postcss
+  webrick
 
 BUNDLED WITH
    2.4.7
