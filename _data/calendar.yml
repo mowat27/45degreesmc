@@ -1,0 +1,457 @@
+---
+- year: 2023
+  meets:
+  - month: January
+    dates: 20/21st
+    hut: Great Glen Hostel
+    area: |-
+      South Laggan
+      (AGM & Burns Night)
+  - month: February
+    dates: 10/11th
+    hut: Mill Cottage
+    area: Feshiebridge
+  - month: March
+    dates: 17/18th
+    hut: Lagangarbh
+    area: Glencoe
+  - month: April
+    dates: 14/15th
+    hut: Agnes Spencer Memorial Hut
+    area: Patterdale (Lake District)
+  - month: May
+    dates: 12/13th
+    hut: Inver Croft
+    area: Achnasheen
+  - month: June
+    dates: 16/17th
+    hut: Glencoe Ski Lodge
+    area: Bridge of Orchy
+  - month: July
+    dates: 14/ 15th
+    hut: " The Smiddy"
+    area: Dundonnell
+  - month: August
+    dates: 18/19th
+    hut: CIC Hut
+    area: Ben Nevis
+  - month: September
+    dates: 15/16th
+    hut: ''
+    area: Glen Clova
+  - month: October
+    dates: " 13/14th"
+    hut: ''
+    area: Glen Brittle
+  - month: November
+    dates: ''
+    hut: ''
+    area: ''
+  - month: December
+    dates: ''
+    hut: ''
+    area: ''
+- year: 2022
+  meets:
+  - month: January
+    dates: 28/29th
+    hut: Braedownie Hut
+    area: |-
+      Glen Clova
+      (AGM & Burns Night)
+  - month: February
+    dates: 18/19th
+    hut: Inbhirfhaolain
+    area: Glen Etive
+  - month: March
+    dates: 25/26th
+    hut: Glen Brittle
+    area: Skye
+  - month: April
+    dates: 8/9th
+    hut: Blackrock Cottage
+    area: Glencoe
+  - month: May
+    dates: 13/14th
+    hut: Ardvuillinn House
+    area: Ardgour
+  - month: June
+    dates: 17/18th
+    hut: Elphin Caving Centre
+    area: Assynt
+  - month: July
+    dates: 15/16/17th
+    hut: Druim Bothy
+    area: Knoydart
+  - month: August
+    dates: 12/13th
+    hut: Rothiemurchus Lodge
+    area: Cairngorms
+  - month: September
+    dates: 9/10th
+    hut: Strawberry Cottage
+    area: Glen Affric
+  - month: October
+    dates: 21/22nd
+    hut: Muir Cottage
+    area: lnverey
+  - month: November
+    dates: 18/19th
+    hut: Ratagan Youth Hostel
+    area: Kintail
+  - month: December
+    dates: 9/10th
+    hut: The Cabin
+    area: Laggan
+- year: 2021
+  meets:
+  - month: January
+    dates: TBC
+    hut: TBC
+    area: TBC
+  - month: February
+    dates: 26th/27th
+    hut: Invercroft – CANCELLED
+    area: Achnasheen
+  - month: March
+    dates: 26th/27th
+    hut: Glen Brittle Hut – CANCELLED
+    area: Skye
+  - month: April
+    dates: 23rd/24th/25th
+    hut: Druim Bothy – CANCELLED
+    area: Knoydart
+  - month: May
+    dates: 21st/22nd
+    hut: Ardvullin House – CANCELLED
+    area: Ardgour
+  - month: June
+    dates: 18th/19th
+    hut: The Cabin – CANCELLED
+    area: Laggan
+  - month: July
+    dates: 2nd/3rd
+    hut: Blackrock Cottage – TBC
+    area: Glencoe
+  - month: August
+    dates: 20th/21st
+    hut: Mol Mor Bunkhouse
+    area: Torridon
+  - month: September
+    dates: 17th/18th/19th
+    hut: Helyg Hut – CANCELLED
+    area: Ogwen Valley
+  - month: October
+    dates: 29th/30th
+    hut: Inver Hut
+    area: Achnasheen
+  - month: November
+    dates: 19/20th
+    hut: Alex MacIntyre Hut
+    area: Onich
+  - month: December
+    dates: 17th/18th
+    hut: Milehouse Cottage
+    area: Kincraig
+- year: 2020
+  meets:
+  - month: January
+    dates: 24th/25th
+    hut: West Highland Lodge
+    area: Kinlochleven
+  - month: February
+    dates: 21st/22nd
+    hut: Agnes Spencer Memorial Hut
+    area: Patterdale, Lake District
+  - month: March
+    dates: 13th/14th
+    hut: Muir Cottage
+    area: Inverey
+  - month: April
+    dates: 24th/25th/26th
+    hut: Druim Bothy – CANCELLED
+    area: Knoydart
+  - month: May
+    dates: 22nd/23rd
+    hut: Croft Bunkhouse – CANCELLED
+    area: Portnalong, Skye
+  - month: June
+    dates: 12th/13th
+    hut: The Cabin – CANCELLED
+    area: Laggan
+  - month: July
+    dates: TBA
+    hut: TBA – Camping/Bothy – CANCELLED
+    area: Isle of Rum
+  - month: August
+    dates: 14th/15th
+    hut: Ardvullin House – CANCELLED
+    area: Ardgour
+  - month: September
+    dates: 18th/19th/20th
+    hut: Helyg Hut – CANCELLED
+    area: Ogwen Valley , Wales
+  - month: October
+    dates: 16/17th
+    hut: Mol Mor Bunkhouse – CANCELLED
+    area: Torridon
+  - month: November
+    dates: 20/21st
+    hut: Craigallan Hut- CANCELLED
+    area: near Ballachullish
+  - month: December
+    dates: 18/19th
+    hut: Milehouse Cottage – CANCELLED
+    area: Kingraig
+- year: 2019
+  meets:
+  - month: January
+    dates: 25th/26th
+    hut: Braedownie Hut
+    area: Glen Clova (Burns Night)
+  - month: February
+    dates: 8th/9th
+    hut: Inbhirfhaolain
+    area: Glen Etive
+  - month: March
+    dates: 8th/9th29th/30th
+    hut: Inver CroftDinah Hoggus Camping Barn
+    area: |-
+      Achnasheen
+      Keswick, Lake District
+  - month: April
+    dates: 26th/27th
+    hut: Milehouse
+    area: Kincraig
+  - month: May
+    dates: 31st/1st June
+    hut: Elphin Caving Centre
+    area: Elphin
+  - month: June
+    dates: 21st/22nd
+    hut: Shore Lodge Bunkhouse
+    area: Broddick, Arran
+  - month: July
+    dates: 12th/13th
+    hut: Torrin Outdoor Centre
+    area: Skye
+  - month: August
+    dates: 2nd/3rd
+    hut: Glencoe ski Club Lodge
+    area: Bridge of Orchy
+  - month: September
+    dates: 13th/14th
+    hut: Saddle Mountain Hostel
+    area: Invergarry
+  - month: October
+    dates: 11th/12th
+    hut: Strawberry Cottage
+    area: Glen Affric
+  - month: November
+    dates: 8th/9th
+    hut: Glencoe Independent Hostel
+    area: Glencoe
+  - month: December
+    dates: 6th/7th
+    hut: The Cabin
+    area: Laggan
+- year: 2018
+  meets:
+  - month: January
+    dates: 26th/27th
+    hut: Glassie Farm
+    area: Aberfeldy
+  - month: February
+    dates: 23rd/24th
+    hut: The Cabin
+    area: Balgowan, nr Laggan
+  - month: March
+    dates: " 16th/17th"
+    hut: " Outdoor Centre"
+    area: " Kinlocheil, Lochaber"
+  - month: April
+    dates: " 6th/7th"
+    hut: " Croft Bunkhouse, Portnalong"
+    area: " Isle of Skye"
+  - month: May
+    dates: 18th/19th
+    hut: Muir Cottage
+    area: Inverey
+  - month: June
+    dates: 22nd/23rd
+    hut: The Bunkhouse
+    area: Craignure, Mull
+  - month: July
+    dates: " No official meet"
+    hut: ''
+    area: ''
+  - month: August
+    dates: " 17th/18th"
+    hut: " Ardvullin House"
+    area: " Ardgour"
+  - month: September
+    dates: " 21st/22nd"
+    hut: " Rothiemurchus Lodge"
+    area: " Aviemore"
+  - month: October
+    dates: " 5th/6th"
+    hut: " Stair Cottage"
+    area: "  Keswick, Lake District"
+  - month: November
+    dates: " 9th/10th"
+    hut: " Blackrock Cottage"
+    area: " Glencoe"
+  - month: December
+    dates: " 7th/8th"
+    hut: " Kinloch Rannoch Outdoor Centre"
+    area: " Kinloch Rannoch"
+- year: 2017
+  meets:
+  - month: January
+    dates: 27th/28th
+    hut: Glassie
+    area: Aberfeldy
+  - month: February
+    dates: 10th/11th
+    hut: Inver
+    area: Achnasheen
+  - month: March
+    dates: 17th/18th
+    hut: Steall
+    area: Glen Nevis
+  - month: April
+    dates: 14th/15th
+    hut: Morvich
+    area: Kintail
+  - month: May
+    dates: 12th/13th
+    hut: Smiddy
+    area: Glen Etive
+  - month: June
+    dates: " 16th/17th"
+    hut: " Strawberry Cottage"
+    area: " Glen Affric"
+  - month: July
+    dates: 21st/22nd
+    hut: Ochils Club Hut
+    area: Crianlarich
+  - month: August
+    dates: " 18th/19th"
+    hut: " Glen Brittle Hut"
+    area: " Skye"
+  - month: September
+    dates: " 15th/16th"
+    hut: " Little Langdale Hut"
+    area: " Lake District, England"
+  - month: October
+    dates: " 6th/7th"
+    hut: " CIC Hut"
+    area: " Ben Nevis"
+  - month: November
+    dates: " 17th/18th"
+    hut: " Mill Cottage"
+    area: " Feshiebridge"
+  - month: December
+    dates: " 8th/9th"
+    hut: " Lagangarbh Hut"
+    area: " Glencoe"
+- year: 2016
+  meets:
+  - month: January
+    dates: 29th/30th
+    hut: Ochils Club Hut
+    area: Crianlarich
+  - month: February
+    dates: " 19th/20th"
+    hut: Clova Hut
+    area: Glen Clova
+  - month: March
+    dates: 18th/19th
+    hut: Raeburn Hut
+    area: Laggan
+  - month: April
+    dates: 15th/16th
+    hut: Lagangarbh Hut
+    area: Glen Coe
+  - month: May
+    dates: 19th/20th/21st/22nd
+    hut: Druim Bothy
+    area: Knoydart
+  - month: June
+    dates: " 17th/18th"
+    hut: Naismith Hut
+    area: Elphin
+  - month: July
+    dates: " 22nd/23rd"
+    hut: " Strawberry Cottage"
+    area: " Glen Affric"
+  - month: August
+    dates: 19th/20th
+    hut: Glen Brittle
+    area: Skye
+  - month: September
+    dates: " 16th/17th"
+    hut: Ling Hut
+    area: Torridon
+  - month: October
+    dates: " 14th/15th"
+    hut: Ariundle Bunkhouse
+    area: Ardgour
+  - month: November
+    dates: " 4th/5th"
+    hut: Milehouse
+    area: Kincraig
+  - month: December
+    dates: " 2nd/3rd"
+    hut: Loch Ossian Hostel
+    area: Corrour
+- year: 2015
+  meets:
+  - month: February
+    dates: 13th/14th
+    hut: Milehouse
+    area: Kincraig, Nr Aviemore
+  - month: March
+    dates: 20th/21st
+    hut: Inbhirfhaolain
+    area: Glen Etive
+  - month: April
+    dates: 10th/11th
+    hut: Bearnock Hostel
+    area: Drumnadrochit
+  - month: May
+    dates: 1st/2nd
+    hut: Smiddy
+    area: Dundonnell
+  - month: June – A
+    dates: 5th/6th
+    hut: Braemar Lodge
+    area: Braemar
+  - month: June -B
+    dates: 26th/27th
+    hut: Coruisk
+    area: Isle of Skye
+  - month: July
+    dates: 23rd/24th/25th
+    hut: Ling
+    area: Torridon
+  - month: August
+    dates: 28th/29th
+    hut: Muir Cottage
+    area: Nr Braemar
+  - month: September
+    dates: 18th/19th
+    hut: CIC Hut
+    area: Ben Nevis
+  - month: October
+    dates: 16th/17th
+    hut: Inver Hut
+    area: Achnasheen
+  - month: November
+    dates: 6th/7th
+    hut: The Cabin
+    area: Balgowan, nr. Laggan
+  - month: December
+    dates: 4th/5th
+    hut: Alex MacIntyre
+    area: North Ballachulish

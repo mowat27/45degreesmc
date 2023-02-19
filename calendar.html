@@ -3,4 +3,14 @@
   layout: default
 ---
 
-<h1>Calendar</h1>
+{% for year in site.data.calendar %}
+  <h2 class="text-xl my-4">{{ year.year }}</h2>
+  {% for meet in year.meets %}
+    <div class="mb-2 rounded border-2 border-slate-400 flex justify-between">
+      <p class="">{{ meet.month}}</p>
+      <p class="">{{ meet.dates}}</p>
+      <p class="">{{ meet.hut}}</p>
+      <p class="">{{ meet.area}}</p>
+    </div>
+  {% endfor %}
+{% endfor %}
