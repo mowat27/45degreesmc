@@ -9,30 +9,33 @@ layout: default
       {{ page.dates.from | date: "%e"}} - {{ page.dates.to | date: "%e"}}
       {{ page.dates.from | date: "%b %Y"}}
     </h2>
+    <p class="">{{ page.preamble }}</p>
   </div>
 
-  <div class="md:flex mb-4 md:flex-row-reverse">
+  <div class="mb-4 md:flex md:flex-row-reverse md:justify-between">
     <div class="">
-      <img class="" src="{{ page.images.cover }}" />
+      <img class src="{{ page.images.cover }}" />
     </div>
 
-    <div class="md:pr-6">
-      <p class="">{{ page.preamble }}</p>
-
-      <h3 class="text-lg">Members Attending</h3>
-      <ul>
-        {% for person in page.attendees.members %}
-          <li>{{person}}</li>
-        {% endfor %}
-      </ul>
-
-      {% unless page.attendees.guests.empty? %}
-        <h3 class="text-lg mt-4">Guests</h3>
+    <div class="md:pr-6 md:w-3/5 lg:flex align-top">
+      <div>
+        <h3 class="text-lg mr-16">Members Attending</h3>
         <ul>
-          {% for person in page.attendees.guests %}
+          {% for person in page.attendees.members %}
             <li>{{person}}</li>
           {% endfor %}
         </ul>
+      </div>
+
+      {% unless page.attendees.guests.empty? %}
+        <div>
+          <h3 class="text-lg mt-4">Guests</h3>
+          <ul>
+            {% for person in page.attendees.guests %}
+              <li>{{person}}</li>
+            {% endfor %}
+          </ul>
+        </div>
       {% endunless %}
     </div>
   </div>

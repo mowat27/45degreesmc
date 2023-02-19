@@ -7,14 +7,14 @@
   <link rel="stylesheet" href="/assets/css/main.css" />
   <title>{{ page.title }}</title>
 </head>
-<body class="bg-stone-100 flex flex-col min-h-screen">
+<body class="bg-stone-100 flex flex-col min-h-screen max-w-screen">
   <header>
     <section class="bg-black flex justify-center">
       <img src="/assets/images/cropped-mcheader.jpg" alt="Club logo and a photo of some mountains"/>
     </section>
     <section class="bg-stone-200">
-      <nav class="p-2 mx-16 mb-4">
-        <ul class="flex content-start gap-10">
+      <nav class="p-2 mx-8 md:mx-16 lg:mx-32  xl:mx-64mb-4">
+        <ul class="md:flex content-start gap-10">
           <li><a class="text-slate-800 hover:text-sky-500" href="/">Home</a></li>
           <li><a class="text-slate-800 hover:text-sky-500" href="/meet-reports">Meet Reports</a></li>
           <li><a class="text-slate-800 hover:text-sky-500" href="/calendar">Calendar</a></li>
@@ -23,7 +23,7 @@
       </nav>
     </section>
   </header>
-  <main class="mx-32">
+  <main class="mx-8 md:mx-16 lg:mx-32 xl:mx-64">
     {{ content }}
   </main>
   <footer class="mt-auto bg-black text-white p-4">
