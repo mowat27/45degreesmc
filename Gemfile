@@ -6,4 +6,5 @@ gem "webrick"
 
 group :development do
   gem "nokogiri"
+  gem "dotenv"
 end
